@@ -1,0 +1,21 @@
+DOMAIN-KEYWORD,pluto.tv
+DOMAIN-SUFFIX,pluto.tv
+# Now TV
+DOMAIN-SUFFIX,now.com
+DOMAIN-KEYWORD,now.com
+DOMAIN-KEYWORD,-now-com
+DOMAIN-SUFFIX,teslagram.com
+# Android TV
+IP-CIDR,108.177.125.0/24,no-resolve
+DOMAIN,androidtvlauncherxfe-pa.googleapis.com
+DOMAIN,play.googleapis.com
+DOMAIN,clients3.google.com
+# HamiVideo
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-KEYWORD,hinet.net
+DOMAIN-KEYWORD,-hinet-net
+DOMAIN,cdn.hinet.net
+DOMAIN,hamivideo.hinet.net
+DOMAIN,static-hamivideo.cdn.hinet.net
+DOMAIN,apl-hamivideo.cdn.hinet.net
+DOMAIN,previewvod-hamivideo.cdn.hinet.net
