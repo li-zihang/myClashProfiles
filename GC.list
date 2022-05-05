@@ -3,4 +3,3 @@ DOMAIN-SUFFIX,graphcore.sharepoint.com
 DOMAIN-SUFFIX,docs.graphcore.ai
 DOMAIN-SUFFIX,graphcore.ai
 DOMAIN-SUFFIX,sgjur-vpn.graphcore.cn
-IP-CIDR,8.245.4.66/32,no-resolve
