@@ -2,3 +2,5 @@
 DOMAIN-KEYWORD,github
 # JFrog
 DOMAIN-KEYWORD,artifactory
+# harbour
+DOMAIN-SUFFIX,harbor.ipu.graphcore.cn
