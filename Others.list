@@ -1,4 +1,9 @@
 # LinkedIn
-DOMAIN-KEYWORD,linkedin.com
-DOMAIN-KEYWORD,huggingface.co
-DOMAIN-KEYWORD,arxiv.org
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,idealista.it
+DOMAIN-SUFFIX,idealista.pt
+DOMAIN-SUFFIX,idealista.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
